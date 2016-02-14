@@ -33,8 +33,6 @@ void CSWholeOrbitDataLog(CSWholeOrbitData *data)
         printf(" ");
     }
     printf("\n");
-
-
 }
 
 void CSWholeOrbitDataInit(CSWholeOrbitData *data, uint32_t time)
